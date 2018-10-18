@@ -1,0 +1,193 @@
+  a:hover {
+    background: #a26262 !important;
+    color: white !important;
+  }
+
+  table.mitable thead tr{
+    border: 1px solid #ddd;
+    color: #000;
+  }
+   table.mitable thead tr th{
+    border: 1px solid #ddd;
+    color: #000;
+  }
+     table.mitable thead tr td{
+    border: 1px solid #ddd;
+    color: #000;
+  }
+  table.mitable tbody tr td{
+    border: 1px solid #ddd;
+    text-align: center;
+    color: #000;
+  }
+  table.mitable tbody  tr{
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  #menu_proceso:hover{
+    background: #2d2d2d;
+    color: #fff;
+  }
+  #menu_proceso{
+    border-right: 2px solid #2d2d2d;
+    height: 50px;
+     text-align: center;
+      padding-top: 10px;
+  }
+
+  tr {
+    border: 1px solid #ddd !important;
+  }
+  td {
+    border: 1px solid #ddd !important;
+  }
+  tr td {
+    font-family: open sans !important;
+    font-size: 0.95em !important;
+  }
+  th {
+    text-align: center;
+  }
+
+  tr#metas td {
+      text-align: center;
+      color: #b15252 !important;
+      background: none !important;
+  }
+  tr#indicadores {
+      background: #fff9ec !important;
+      font-size: 12px !important;
+      text-align: center; 
+  }
+  tr#indicadores td {
+    color: #803838;
+    font-weight: 600;
+  }
+  #subproceso_10 {
+      background: #ffe1e1;
+      text-align: center;
+  }
+  #subproceso_9 {
+      text-align: center;
+      background: #ffdeaf;
+  }
+  #menu_proceso {
+      font-size: 13px;
+      font-family: unset;
+      background: white;
+      border: 1px solid #e1e1e1;
+      padding: 6px;
+      margin-bottom: 13px;
+      margin-top: 8px;
+      color: #a50029;
+      cursor: pointer;
+      font-weight: 600;
+      line-height: 17px;
+  }
+  #menu_proceso:active {
+      background: #ffe9e9;
+  }
+  #menu_proceso:hover {
+      background: #ffe9e9;
+      color: black;
+
+  }
+  .form-control {
+    text-align: center;
+    text-align: center;
+    color: #301717 !important;
+    font-family: open sans;
+  }
+  .an {
+     background-color: white !important;
+     color: #636b6f !important;
+  }
+  p.but {
+    text-align: center !important;
+  }
+
+  a.btn.btn-default.btn-lg {
+    background: red !important;
+  }
+
+  a.btnpro {background: red;}
+
+  textarea#formula_indicador {
+    height: 90px;
+  }
+  textarea#user_report {
+    height: 80px;
+  }
+  select#anio {
+    border-color: #ffbcbc;
+  }
+  select#mes {
+      border-color: #ffbcbc;
+  }
+  textarea#analisis {
+    height: 110px;
+  }
+
+  label {
+    margin-bottom: 1px !important;
+    color: #960005 !important;
+  }
+  label#rs{
+    margin-left: 28px;
+  }
+  input#resultado {
+    margin-left: 28px;
+    border-color: #ffbcbc;
+    color: #000071 !important;
+  }
+  textarea#analisis {
+    border-color: #ffbcbc;
+    color: #000071 !important;
+  }
+  textarea#user_report {
+    border-color: #ffbcbc;
+    color: #000071 !important;
+  }
+  th#subproceso_2 {
+      background: #ffd59e;
+  }
+  #subproceso_1 {
+      background: #ffe1e1;
+  }
+  #subproceso_6 {
+    background: #ffe1e1;
+  }
+  #subproceso_7 {
+    background: #ffd59e;
+  }
+  #proceso_trimestre th {
+      text-align: center !important;
+  }
+  th#subproceso_5 {
+    background: #ffe1e1;
+  }
+  #subproceso_3 {
+    background: #ffe1e1;
+  }
+  th#subproceso_4 {
+    background: #ffd59e;
+  }
+  th#subproceso_8 {
+    background: #ffd59e;
+  }
+  div#periodo {
+    color: #008a83;
+    font-family: sans-serif;
+  }
+  div#analisis {
+    color: #008a83;
+    font-family: sans-serif;
+  }
+  div#nombre_indicador {
+    color: #008a83;
+    font-family: sans-serif;
+  }
+  div#resultado {
+    color: #c12525;
+    font-family: sans-serif;
+  }
